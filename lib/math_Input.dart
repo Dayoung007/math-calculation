@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+const int screen = 0;
+
 class MathInput extends StatelessWidget {
   final TextEditingController value;
   final VoidCallback getValue;
